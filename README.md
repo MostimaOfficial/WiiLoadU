@@ -1,2 +1,2 @@
 # WiiLoadU
-USBLoaderGX but for WiiU.
+USBLoaderGX ported to Wii U.
